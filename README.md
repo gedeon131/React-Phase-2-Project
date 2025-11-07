@@ -1,26 +1,43 @@
-# React Phase 2 project
+# VISION+BOARD 🎯
 
+Une application simple de gestion d’objectifs et d’accomplissements développée avec **React** et **JSON Server**.
 
-<br>
+## 🚀 Fonctionnalités
 
-![](public/app_preview.png)
+- Formulaire dynamique (Objectif / Accomplissement)
+- Navigation via React Router : Home / Goals / Accomplishments
+- Ajout, suppression et modification de données
+- Mise à jour des objectifs avec un slider (progression %)
+- Design personnalisé en CSS
 
-<br>
+## 🛠️ Technologies utilisées
 
-### **Form**
+- React (Hooks)
+- React Router
+- JSON Server (faux backend REST)
+- CSS personnalisé
 
-The form on the page allows you to select whether you want to post a new item to the Goal Board or the Accomplishment Board -- Users are able to POST goals/accomplishments, UPDATE progress, and DELETE goals/accomplishments.
+## ▶️ Démarrage
 
-The form is dynamic and only shows the fields that are relevant to the Goals and Accomplishments wall.
+1. Cloner le projet :
+```bash
+git clone https://github.com/ton-utilisateur/nom-du-repo.git
+cd nom-du-repo
+Installer les dépendances :
 
-### **Client-Side Routes**
+bash
+Copier le code
+npm install
+Lancer le backend JSON Server :
 
-The project includes 3 client-side routes using React Router in the NavBar.
+bash
+Copier le code
+npx json-server --watch db.json --port 3001
+Lancer l'application React :
 
-### **CSS Styling**
+bash
+Copier le code
+npm start
 
-Custom CSS styling throughout with a consistant UI theme.
-
-### **Sources**
-
-None
+👤 Auteur
+Gedeon FREYCINET
