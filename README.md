@@ -1,6 +1,6 @@
-# VISION+BOARD 🎯
+# 📘 Learning Tracker – React Phase 2 Project
 
-Une application simple de gestion d’objectifs et d’accomplissements développée avec **React** et **JSON Server**.
+Bienvenue sur **Learning Tracker**, une plateforme simple pour suivre vos sujets d'apprentissage, ajouter de nouveaux sujets, les marquer comme complétés ou les supprimer.
 
 ## 🚀 Fonctionnalités
 
